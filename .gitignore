@@ -2,3 +2,5 @@
 *.iml
 target/
 *.zip
+*.war
+*.ear
