@@ -2,7 +2,7 @@ package Sorting;
 import java.util.*;
 public class ArraysSortingPractice {
 
-   static Integer[] test = new Integer[10000];
+    static Integer[] test = new Integer[10000];
     static int[] array = new int[10000];
     private int length;
 
